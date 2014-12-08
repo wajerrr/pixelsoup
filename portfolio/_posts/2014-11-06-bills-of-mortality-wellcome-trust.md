@@ -22,4 +22,4 @@ My work/Main features :
 - Preparing assets from Illsutrator files for use in projects (includes: inline svg ,svg files, jpgs/pngs )
 
  
-![Bills of Mortality screen 1](/images/portfolio/wt-bills-1.jpg "Bills of Mortality  screen 1")
+![Bills of Mortality screen 1]({{site.baseurl}}/images/portfolio/wt-bills-1.jpg "Bills of Mortality  screen 1")

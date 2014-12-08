@@ -19,6 +19,6 @@ My work/Main features :
 - creating animations and  assets using Flash CS5 from static Photoshop files
 - importing and processing all vector and raster assets from Photoshop/Illustrator
 
-![GE multi-touch presentations screen 1](/images/portfolio/ge-1.jpg "GE multi-touch presentations screen 1")
+![GE multi-touch presentations screen 1]({{site.baseurl}}/images/portfolio/ge-1.jpg "GE multi-touch presentations screen 1")
 
-![GE multi-touch presentations screen 2](/images/portfolio/ge-2.jpg "GE multi-touch presentations screen 2")
+![GE multi-touch presentations screen 2]({{site.baseurl}}/images/portfolio/ge-2.jpg "GE multi-touch presentations screen 2")

@@ -16,6 +16,6 @@ My work/Main features :
 - idea, user experience design, interactivity design
 - development using using Jquary HTML5 CSS and Jquery UI
 
-![TalkTalk TV Tribes quiz screen 1](/images/portfolio/add_timer-1.jpg "TalkTalk TV Tribes quiz screen 1")
+![TalkTalk TV Tribes quiz screen 1]({{site.baseurl}}/images/portfolio/add_timer-1.jpg "TalkTalk TV Tribes quiz screen 1")
 
-![TalkTalk TV Tribes quiz screen 2](/images/portfolio/add_timer-2.jpg "TalkTalk TV Tribes quiz screen 2")
+![TalkTalk TV Tribes quiz screen 2]({{site.baseurl}}/images/portfolio/add_timer-2.jpg "TalkTalk TV Tribes quiz screen 2")

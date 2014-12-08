@@ -18,6 +18,6 @@ My work/Main features :
 - uses html5 video, device orientation
 - vanillaJS, no external libriaries used
 
-![atek Philippe 'Generations' iPad screen 1](/images/portfolio/patek-1.jpg "Patek Philippe 'Generations' iPad screen 1")
+![atek Philippe 'Generations' iPad screen 1]({{site.baseurl}}/images/portfolio/patek-1.jpg "Patek Philippe 'Generations' iPad screen 1")
 
-![atek Philippe 'Generations' iPad screen 2](/images/portfolio/patek-2.jpg "Patek Philippe 'Generations' iPad screen 2")
+![atek Philippe 'Generations' iPad screen 2]({{site.baseurl}}/images/portfolio/patek-2.jpg "Patek Philippe 'Generations' iPad screen 2")

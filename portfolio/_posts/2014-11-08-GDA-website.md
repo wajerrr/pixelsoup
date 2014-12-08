@@ -24,8 +24,8 @@ My work/Main features :
 - uses SASS
 
  
-![Graphic Digital Agency website screen 1](/images/portfolio/gda-website-1.jpg "BGraphic Digital Agency website screen 1")
+![Graphic Digital Agency website screen 1]({{site.baseurl}}/images/portfolio/gda-website-1.jpg "BGraphic Digital Agency website screen 1")
 
-![Graphic Digital Agency website screen 1](/images/portfolio/gda-website-2.jpg "Graphic Digital Agency website screen 1")
+![Graphic Digital Agency website screen 1]({{site.baseurl}}/images/portfolio/gda-website-2.jpg "Graphic Digital Agency website screen 1")
 
 

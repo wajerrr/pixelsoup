@@ -21,5 +21,5 @@ My work/Main features :
 - Developed using AS3 RobotLegs framework 
 - Imported and processed all vector and raster assets from Photoshop/Illustrator
 
-![Rango game screen 1](/images/portfolio/rango-game-1.jpg "Rango game screen 1")
+![Rango game screen 1]({{site.baseurl}}/images/portfolio/rango-game-1.jpg "Rango game screen 1")
  

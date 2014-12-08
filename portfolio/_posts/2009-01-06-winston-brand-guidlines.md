@@ -19,10 +19,10 @@ My work/Main features :
     - imported and processed all vector and raster assets from Photoshop/Illustrator
 
 
-![Winston Brand Guideline Editor and Presentation screen 1](/images/portfolio/winston-1.jpg "Winston Brand Guideline Editor and Presentation screen 1")
+![Winston Brand Guideline Editor and Presentation screen 1]({{site.baseurl}}/images/portfolio/winston-1.jpg "Winston Brand Guideline Editor and Presentation screen 1")
 
-![Winston Brand Guideline Editor and Presentation screen 2](/images/portfolio/winston-2.jpg "TalkTalk TV Tribes quiz screen 2")
+![Winston Brand Guideline Editor and Presentation screen 2]({{site.baseurl}}/images/portfolio/winston-2.jpg "TalkTalk TV Tribes quiz screen 2")
 
-![Winston Brand Guideline Editor and Presentation screen 3](/images/portfolio/winston-3.jpg "Winston Brand Guideline Editor and Presentation screen 3")
+![Winston Brand Guideline Editor and Presentation screen 3]({{site.baseurl}}/images/portfolio/winston-3.jpg "Winston Brand Guideline Editor and Presentation screen 3")
 
-![Winston Brand Guideline Editor and Presentation screen 4](/images/portfolio/winston-4.jpg "Winston Brand Guideline Editor and Presentation screen 4")
+![Winston Brand Guideline Editor and Presentation screen 4]({{site.baseurl}}/images/portfolio/winston-4.jpg "Winston Brand Guideline Editor and Presentation screen 4")

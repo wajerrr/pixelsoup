@@ -17,5 +17,5 @@ My work/Main features :
 CSS animations and transitions (no jQuery animations), Javascript, CSS3,
  Media queries for orientation detection
 
-![Sky banner image 1](/images/portfolio/sky-banner-1-frame.jpg "Sky banner image 1")
+![Sky banner image 1]({{site.baseurl}}/images/portfolio/sky-banner-1-frame.jpg "Sky banner image 1")
  
