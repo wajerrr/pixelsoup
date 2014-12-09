@@ -3,7 +3,7 @@ layout: article
 title:  "Data Vizualisation interactive of Millward Brown Ad reaction research" 
 date:   2014-11-07 14:02:42
 categories: [dataViz]
-tags: [angularJS,d3.js,svg,grunt]
+tags: [AngularJS,d3.js,svg,grunt]
 image:
   feature:
   teaser: portfolio/mb-adr-teaser.jpg
