@@ -11,9 +11,9 @@ image:
 share: false
 ads: false
 ---
-Based in London.
 
-- Educated to MSc level in Computer science specialization  in Computer Graphics and Multimedia
-- CV  and References available upon requests
-- If you have any questions please drop me an email at: wajerrr@gmail.com
- 
+I am an Interactive Developer with over 7 years experience, working for leading digital agencies including The Guardian, Digitas, TBWA, SapientNitro, VCCP.
+I develop online and offline sites, tools, animations, games and touch-screen apps.
+I have worked for clients including: GE, O2, Intel, Sky, RBS, IBM, Peugeot, DVLA.
+
+Technologies/Software used: HTML5, JavaScript, CSS3, AngularJS, D3.js, Raphael.js, jQuery, Git, Grunt, Photoshop, Illustrator
