@@ -2,7 +2,13 @@
   <div class="inner-wrap">
     <a href="{{ site.baseurl }}/" class="site-title">{{ site.title }}</a>
     <nav role="navigation" class="menu top-menu">
-        {% include navigation.html %}
+        <ul class="menu-item">
+	<li class="home"><a href="/">{{ site.title }}</a></li>
+	{% for link in site.data.navigation %}
+     
+    <li><a href="{{ site.baseurl }}/{{ link.url }}">{{ link.title }}</a></li>
+  {% endfor %}
+</ul>
     </nav>
   </div><!-- /.inner-wrap -->
 </header><!-- /.masthead -->
