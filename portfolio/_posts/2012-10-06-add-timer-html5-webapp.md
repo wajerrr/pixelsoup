@@ -9,12 +9,12 @@ image:
   teaser: portfolio/add_timer-teaser.jpg
 ---
 
-URL: [addtimer.net](http://addtimer.net/)
+**Link:** [www](http://addtimer.net/)
 
-My work/Main features :
+**My Work/Project Features:**
 
-- idea, user experience design, interactivity design
-- development using using Jquary HTML5 CSS and Jquery UI
+- Idea, user experience design, interactivity design
+- Development using using Jquary HTML5 CSS and Jquery UI
 
 ![TalkTalk TV Tribes quiz screen 1]({{site.baseurl}}/images/portfolio/add_timer-1.jpg "TalkTalk TV Tribes quiz screen 1")
 

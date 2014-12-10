@@ -4,9 +4,7 @@
 li {
 float: left;
 &:last-child a {
-@include media($medium) {
-margin-right: 0; // remove spacing from last menu link
-}
+
 }
 a {
 // line hover effect
@@ -207,6 +205,15 @@ width: 100%;
 	background-attachment: fixed;
 	text-align: center;
 	color: $white;
+	a.txt-link
+	{
+		color: $white;
+	}
+	a.txt-link:hover
+	{
+		background-color:orange;
+		color:black;
+	}
 	@include media($large) {
 		background-size: cover;
 	}
@@ -433,3 +440,30 @@ width: 100%;
 		}
 	}
 }
+
+
+svg
+{
+	.bck
+	{
+		fill-color:#312f30;
+	}
+	.fill-in
+	{
+		fill-color:#ff0000;
+		fill-opacity:1;
+		
+	}
+}
+
+svg#linkdin-icon:hover
+{
+
+}
+
+
+svg#github-icon:hover
+{
+
+}
+

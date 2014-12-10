@@ -9,13 +9,13 @@ image:
   teaser: portfolio/rango-game-teaser.jpg
 ---
 
-Technology: Flash, ActionScript 3, OOP, MVC, RobotLegs
+**Agency**:[ MarsLight](http://www.marslight.co.uk/) /[FireBelly Creative ](http://firebellycreative.co.uk/)
 
-URL: [WWW](http://www.rangomovie.com/intl/uk/cactusmakesperfect/)
+**Client:** Paramount Pictures
 
-Agency:[ MarsLight](http://www.marslight.co.uk/) /[FireBelly Creative ](http://firebellycreative.co.uk/)
+**Link:** [WWW](http://www.rangomovie.com/intl/uk/cactusmakesperfect/)
 
-My work/Main features :
+My Work/Project Features :
 
 - Programmed and designed game logic
 - Developed using AS3 RobotLegs framework 

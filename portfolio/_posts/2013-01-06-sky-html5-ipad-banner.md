@@ -8,14 +8,17 @@ image:
   feature:
   teaser: portfolio/sky-banner-teaser-frame.jpg
 ---
-Agency: [Sapient  
-](http://www.sapient.com/)Client: Sky
+**Agency:** [Sapient  
+](http://www.sapient.com/)
 
-My work/Main features :
+**Client:** Sky
 
-- developing  full screen HTML5 banner for IPad Telegraph app, using 
-CSS animations and transitions (no jQuery animations), Javascript, CSS3,
- Media queries for orientation detection
+**My Work/Project Features:**
+
+- Developing full screen HTML5 banner for iPad Telegraph app, 
+- Using CSS animations and transitions (no jQuery animations), 
+- Vannila JS, CSS3 
+- Media queries for orientation detection
 
 ![Sky banner image 1]({{site.baseurl}}/images/portfolio/sky-banner-1-frame.jpg "Sky banner image 1")
  

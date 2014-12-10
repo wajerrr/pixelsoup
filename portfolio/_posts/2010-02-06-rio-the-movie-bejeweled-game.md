@@ -1,26 +1,28 @@
 ---
 layout: article
-title:  "Rio The Movie Bejeweled Game"
-date:   2010-01-14 14:02:42
+title: "Game Rio The Movie Bejeweled"
+date: 2010-01-14 14:02:42
 categories: [games]
-tags: [ ActionScript 3, oop, robotlegs, subversion]
+client: 21st Century Fox
+thing: Game
+name: Rio The Movie Bejeweled
+tags: [ActionScript 3, oop, robotlegs, subversion]
 image:
   feature:
   teaser: portfolio/rio-game-teaser.jpg
 ---
 
-Technology: Flash, ActionScript 3, oop, robotlegs
+**Agency:** [Substance001](http://www.substance001.com/)
 
-Medium:[WWW (DEMO LINK)](http://www.wajerrr.com/portfolio/wp-content/rio_game/Rio_Bejewled.html)
+**Client:** 20th Century Fox
 
-Agency: [Substance001](http://www.substance001.com/)
+**Link:** [www](http://www.wajerrr.com/portfolio/wp-content/rio_game/Rio_Bejewled.html)
+    
+**My Work/Project Features:**
 
-Client: 20th Century Fox
-
-My work/Main features :
-
-- Programmed game logic using **[RobotLegs](http://www.wajerrr.com/portfolio/tag/robotlegs/)** framework
--  imported and processed all vector and raster assets from Photoshop/Illustrator
+- ActionScript 3
+- Programmed game logic using [RobotLegs](http://www.wajerrr.com/portfolio/tag/robotlegs/) oop framework
+- Imported and processed all vector and raster assets from Photoshop/Illustrator
 
 ![Rio The Movie Bejeweled Game screen 1]({{site.baseurl}}/images/portfolio/rio-game-1.jpg "Rio The Movie Bejeweled Game screen 1")
 

@@ -15,6 +15,14 @@
   margin-top:$masthead-offset;
 }
 
+.extra-vertical-padding-45px
+{
+  padding-top:45px;
+  padding-bottom:45px;
+}
+
+
+
 .already-visible {
   @include transform(translateY(0));
   @include animation(none);

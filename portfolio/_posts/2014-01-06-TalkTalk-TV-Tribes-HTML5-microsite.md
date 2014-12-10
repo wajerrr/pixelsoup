@@ -9,13 +9,15 @@ image:
   teaser: portfolio/tv-tribes-teaser.jpg
 ---
 
-Agency: [22Design](http://www.22design.co.uk/)  
+**Agency:** [22Design](http://www.22design.co.uk/)  
 
-Client: [TalkTalk](http://tvtribes.co.uk/#/)
+**Client:** TalkTalk
 
-My work/Main features :
+**Link:** [www](http://tvtribes.co.uk/#/)
 
--  Developing micro-site using [AngularJS](http://angularjs.org/) and [PixiJS ](http://www.pixijs.com/) frameworks
+**My Work/Project Features:**
+
+- Developing micro-site AngularJS and PixiJS frameworks
 - Preparing assets from Photoshop files for use within the website
 
 ![TalkTalk TV Tribes quiz screen 1]({{site.baseurl}}/images/portfolio/tv-tribes-1.jpg "TalkTalk TV Tribes quiz screen 1")

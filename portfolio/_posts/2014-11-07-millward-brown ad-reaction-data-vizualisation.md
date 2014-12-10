@@ -1,26 +1,27 @@
 ---
 layout: article
-title:  "Data Vizualisation interactive of Millward Brown Ad reaction research" 
+title:  "Interactive Data Visualisation of Millward Brown AdReaction 2014 research" 
 date:   2014-11-07 14:02:42
 categories: [dataViz]
-tags: [AngularJS,d3.js,svg,grunt]
+tags: [AngularJS,d3js,svg]
 image:
   feature:
   teaser: portfolio/mb-adr-teaser.jpg
 ---
 
-Agency: [Guardian Digital Agency](http://www.guardian.com/)  
+**Agency:** [Guardian Digital Agency](http://www.guardian.com/)  
 
-Client: [Millward Brown](http://www.millwardbrown.com/)
+**Client:** [Millward Brown](http://www.millwardbrown.com/)
 
-link: [www](https://www.millwardbrown.com/adreaction/2014/#/)
+**Link:** [www](https://www.millwardbrown.com/adreaction/2014/#/)
 
-My work/Main features :
+**My Work/Project Features:**
 
--  Developing data vizualization interactive website using AngularJS and d3.js
--  using GitHub for version control and Grunt for automated build    
-- Preparing assets from Illsutrator files for use in projects (includes: inline svg ,svg files, jpgs/pngs )
-- responsive 
+- Developing data vizualization interactive website using AngularJS and d3.js
+- Using GitHub for version control
+- Grunt for automated build    
+- Preparing assets from Illustrator files for use in projects (includes: inline svg ,svg files, jpgs/pngs )
+- Responsive 
 
  
 ![Data Vizualisation interactive of Millward Brown screen 1]({{site.baseurl}}/images/portfolio/mb-adr-1.jpg "Data Vizualisation interactive of Millward Brown screen 1")

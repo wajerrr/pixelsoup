@@ -9,14 +9,16 @@ image:
   teaser: portfolio/bp-friction-teaser.jpg
 ---
 
-Agency: [EdComs](http://www.edcoms.com/)  
+**Agency:** [EdComs](http://www.edcoms.com/)  
 
-Client: BP  (live link coming  soon)
+**Client:** BP
 
-My work/Main features :
+**My Work/Project Features:**
 
-- Developing all functionality and back-end integration using [AngularJS](http://angularjs.org/) framework
-- Developing bespoke graph plotting solution using [RaphaelJS  ](http://raphaeljs.com/)framework.
+- Developing all functionality and back-end integration using AngularJS framework
+- Developing bespoke graph plotting solution using RaphaelJS
+- Grunt for task build
+- Git for version control 
 
 ![Friction and Forces start screen]({{site.baseurl}}/images/portfolio/bp-friction-1.jpg "Friction and Forces start screen")
 
