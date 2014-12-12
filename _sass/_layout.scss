@@ -60,7 +60,9 @@ width: 100%;
 }
 .site-title {
 	
-	
+	@include media($micro) {
+		display: none;
+	}
 		@include span-columns(4);
 	
 	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
@@ -199,7 +201,7 @@ width: 100%;
 }
 // page lead
 .page-lead {
-	
+	background-color:#565553;
 	background-position: center top;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -220,6 +222,7 @@ width: 100%;
 }
 .page-lead-content {
 	padding: 1em;
+
 	@include media($medium) {
 		padding: 2em;
 	}
